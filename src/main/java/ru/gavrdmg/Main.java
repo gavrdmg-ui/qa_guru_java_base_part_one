@@ -17,8 +17,6 @@ public class Main {
         System.out.printf("c+a*(c-b)=%f \n", c + a * (c - b));
         System.out.printf("a>b = %b \n", a > b);
         System.out.printf("b<c = %b \n", b < c);
-        System.out.printf("a>b = %b \n", a > b);
-        System.out.printf("b<c = %b \n", b < c);
         System.out.printf("b<=d = %b \n", b <= d);
         System.out.println(outOfRange);
     }
